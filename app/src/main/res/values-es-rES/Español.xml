@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Aplicacion</string>
+    <string name="titlebox">Titulo</string>
+    <string name="description">Descripcion</string>
+    <string name="date">Fecha de recordatorio</string>
+    <string name="add_task">Agregar</string>
+</resources>
